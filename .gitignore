@@ -8,4 +8,4 @@ node_modules
 .tern-project
 .settings
 selenium-client-jars/
-test/artifacts
+test/artifacts  
